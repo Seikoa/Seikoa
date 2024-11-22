@@ -16,7 +16,7 @@
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=miaobox
-)](https://github.com/Seikoa/mp4To4K-rust)
+)](https://github.com/xhdndmm/miaobox)
 <br><br><br>
 
 ### GitHub Stats
