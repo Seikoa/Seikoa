@@ -6,7 +6,7 @@
 ### **社交主页：**
 -  **Seiko**
 -  数据科学大数据专业
--  博客: [https://blog.quickreach.link]
+-  服务器: [https://vps.quickreach.link]
 
 
 ### **技术栈:**
