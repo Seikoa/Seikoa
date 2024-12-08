@@ -3,11 +3,6 @@
 ## CTRL CV 工程师——Seiko
 
 
-### **社交主页：**
--  **Seiko**
--  数据科学大数据专业
--  服务器: [https://vps.quickreach.link]
-
 
 ### **技术栈:**
 
