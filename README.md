@@ -12,8 +12,8 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Seikoa&repo=akmonitor
 )](https://github.com/Seikoa/akmonitor)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Seikoa&repo=FoFaAPI_web
-)](https://github.com/Seikoa/FoFaAPI_web)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Seikoa&repo=Fofa-api-for-web
+)](https://github.com/Seikoa/Fofa-api-for-web)
 <br><br><br>
 
 ### GitHub Stats
