@@ -12,7 +12,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Seikoa&repo=akmonitor
 )](https://github.com/Seikoa/akmonitor)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Seikoa&repo=akmonitor
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Seikoa&repo=Fofa_Visualization
 )](https://github.com/Seikoa/Fofa_Visualization)
 <br><br><br>
 
